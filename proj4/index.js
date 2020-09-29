@@ -4,7 +4,7 @@ cards.forEach((card) => card.addEventListener("click",flip))
 
 var isFlipped = false;
 var firstCard
-var secondCard
+//var secondCard
 
 function flip() {
     //console.log("card flipped");
